@@ -1,4 +1,4 @@
-# SARcastic AI MVP
+# Financial-Compliance-Transaction-Anomaly-Detection MVP
 
 ## Installation & Setup
 
